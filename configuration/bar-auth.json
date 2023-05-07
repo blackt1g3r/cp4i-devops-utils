@@ -1,1 +1,1 @@
-{"authType":"BASIC_AUTH","credentials":{"username":"admin","password":"Passw0rd!","caCertSecret":"artifactory-cacert-secret"}}
+{"authType":"BASIC_AUTH","credentials":{"username":"admin","password":"admin123","caCertSecret":"nexus-cacert-secret"}}
